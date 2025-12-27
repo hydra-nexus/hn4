@@ -6,7 +6,7 @@
 <!-- Badges -->
 [![Status](https://img.shields.io/badge/Status-Final_Testing-orange?style=for-the-badge)](https://github.com/)
 [![Release](https://img.shields.io/badge/Release-~14_Days-success?style=for-the-badge)](https://github.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 
 <br />
 
